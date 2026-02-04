@@ -1,7 +1,5 @@
 AI-Powered Resume Analyzer
 
-Live Demo: https://resume-analyzer.streamlit.app
-
 This is a simple web app that helps students and job seekers understand how well their resume matches a job description.
 It gives a match score and highlights missing skills so you know what to improve before applying.
 
@@ -29,3 +27,4 @@ How it works (simple explanation)
 3.NLP is used to calculate how similar they are
 
 4.Missing skills and keywords are shown
+
