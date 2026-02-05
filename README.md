@@ -37,3 +37,13 @@ This project is intended for academic use, placement preparation, and resume sho
 ---
 
 ## Project Structure
+
+resume-analyzer/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── screenshots/
+│ ├── home.png
+│ └── result.png
+└── job_descriptions/
